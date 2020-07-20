@@ -1,0 +1,26 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "How to use WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aabraham-Farias/WebSockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aabraham-Farias/WebSockets/issues"
+  },
+  "homepage": "https://github.com/Aabraham-Farias/WebSockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
